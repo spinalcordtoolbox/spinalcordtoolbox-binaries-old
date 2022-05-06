@@ -1,6 +1,6 @@
 # spinalcordtoolbox-binaries
 
-This repository used to be an empty repository that was only ever used to https://github.com/spinalcordtoolbox/spinalcordtoolbox-binaries-old/releases/tag/test-release.
+This repository used to be an empty repository that was only ever used to [temporarily store the SCT binaries for Windows platforms(https://github.com/spinalcordtoolbox/spinalcordtoolbox-binaries-old/releases/tag/test-release).
 
 However, the name of this repository ("spinalcordtoolbox-binaries") conflicted with the name of the repository that is used for building binaries via CI: https://github.com/kousu/spinalcordtoolbox-binaries
 
